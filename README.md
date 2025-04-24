@@ -17,7 +17,6 @@ Free Movies API: https://api.themoviedb.org/3/
 - Flutter Framework
 - Bloc (Cubit) - For state management
 - Dio – For making HTTP requests and handling API responses
-- MVVM architecture
 
 ## 📱 Screens
 
