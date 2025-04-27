@@ -22,18 +22,23 @@ Free Movies API: https://api.themoviedb.org/3/
 
 ## 🏠 Home Screen
 
-![Image](https://github.com/user-attachments/assets/11fea95a-2373-47df-aef7-23952285c62f)
+<img src="https://github.com/user-attachments/assets/11fea95a-2373-47df-aef7-23952285c62f" width="300" height="700" />
+<br>
 
-![Image](https://github.com/user-attachments/assets/e4dcdc88-fd68-4af5-8762-a88d356a2a4b)
+<img src="https://github.com/user-attachments/assets/e4dcdc88-fd68-4af5-8762-a88d356a2a4b" width="300" height="700" />
+<br>
 
 ## 🎥 Top Movies Screen
 
-![Image](https://github.com/user-attachments/assets/ae99f460-b05b-403a-b89f-2e8a246812be)
+<img src="https://github.com/user-attachments/assets/ae99f460-b05b-403a-b89f-2e8a246812be" width="300" height="700" />
+<br>
 
 ## 📺 Top Series Screen
 
-![Image](https://github.com/user-attachments/assets/2af0e29d-d0ce-4842-94f5-168da984b4e5)
+<img src="https://github.com/user-attachments/assets/2af0e29d-d0ce-4842-94f5-168da984b4e5" width="300" height="700" />
+<br>
 
 ## 📄 Details Screen
 
-![Image](https://github.com/user-attachments/assets/5fcf4c19-ac44-4880-b1e9-d81cec37bf9f)
+<img src="https://github.com/user-attachments/assets/5fcf4c19-ac44-4880-b1e9-d81cec37bf9f" width="300" height="700" />
+<br>
